@@ -130,12 +130,12 @@
     graphql-tools "4.0.3"
     tslib "1.9.3"
 
-"@ionic/core@4.0.0-rc.2":
-  version "4.0.0-rc.2"
-  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-4.0.0-rc.2.tgz#16eb8d1ea66e32a834ee95405973532a2b065147"
-  integrity sha512-01zoQOhb7PzjJwQYwfmiiGYp6iPfDJFLds7KSiXZVafzihwWvL6Bsww5EWYLXcJ8nl0w2izoaGs74f+zBQW5Lw==
+"@ionic/core@4.3.0":
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-4.3.0.tgz#597cdfa41570028fbaaa7e953c7167a7bfb872e1"
+  integrity sha512-3oVpD4cIWHSgfPQYHJnJ4Mzt6oz8UT6MZGp5p7DR8TeGhnIXs7os98EpZX/TkJW1QyBD/0Q24Y3AGUw1YKG1vw==
   dependencies:
-    ionicons "4.5.1"
+    ionicons "4.5.6"
 
 "@samverschueren/stream-to-observable@^0.3.0":
   version "0.3.0"
@@ -1599,10 +1599,10 @@ inquirer@6.2.1:
     strip-ansi "^5.0.0"
     through "^2.3.6"
 
-ionicons@4.5.1:
-  version "4.5.1"
-  resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-4.5.1.tgz#a180e8948256e6337c2d290eb07f9113dc7b09eb"
-  integrity sha512-zqfkjpPKsdzzXePdE03IRw6xt7B6N3fcN/7NepyniuEWhKZLy7YpdZLegEwBmKeciXi7rIcv1O/hHJTdokUwXQ==
+ionicons@4.5.6:
+  version "4.5.6"
+  resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-4.5.6.tgz#f3b5d2446e7e1b30e67ddcd1fc563271acc60f3c"
+  integrity sha512-/F3U/rxdLPGl8eUW5dMouhBBoJuUPrlFO6rkoz4VNuw1lxP6l+bFtsDA8MaVM1dHABp+gIHxtpt+IhwmB3oIfA==
 
 is-accessor-descriptor@^0.1.6:
   version "0.1.6"
